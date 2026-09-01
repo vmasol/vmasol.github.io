@@ -1,6 +1,6 @@
-[index.html](https://github.com/user-attachments/files/31675238/index.html)
-<img width="700" height="100" alt="DwBanner" src="https://github.com/user-attachments/assets/0247b344-4786-419c-8feb-10a76b051c48" />
+
 [index.html](https://github.com/user-attachments/files/31675248/index.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,10 +30,7 @@
 		h3{
 		color: #364023;
 		}
-
-
-
-
+<img width="700" height="100" alt="DwBanner" src="https://github.com/user-attachments/assets/016ff083-d011-4a1e-ae92-7dcd0f0e6c44" />
 	</style>
 </head>
 
