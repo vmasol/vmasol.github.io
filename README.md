@@ -1,8 +1,4 @@
 
-
-[index.html](https://github.com/user-attachments/files/31675248/index.html)
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Evaluation IMED-2359</title>
